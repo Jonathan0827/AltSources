@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "name": "Jonathan's Source",
+    "identifier": "com.junehyeop.source"
+  },
+  "apps": [
+    {
+      "name": "YourSchool",
+      "bundleIdentifier": "com.junehyeop.YourSchool",
+      "filename": "/build/YourSchool.ipa",
+      "githubOwner": "Jonathan0827",
+      "githubRepository": "YourSchool",
+      "developerName": "Jonathan0827",
+      "version":"1.0.0",
+      "subtitle": "App for Wonsinheung Middle School",
+      "localizedDescription": "Unofficial app for Wonsinheung Mid School",
+      "iconURL": "https://raw.githubusercontent.com/Jonathan0827/YourSchool/main/YourSchool/YourSchool/Assets.xcassets/images.imageset/1024.png",
+      "tintColor": "ffffff"
+    }
+  ]
+}
